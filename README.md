@@ -1,4 +1,6 @@
-# 🌊 Where Sunlight ends, curiosity begins. 🌊
+# <img width="136" height="128" alt="image" src="https://github.com/user-attachments/assets/c3bb958e-0ac3-4d32-93fb-b71e34462664" />
+ Where Sunlight ends, curiosity begins. <img width="136" height="128" alt="image" src="https://github.com/user-attachments/assets/050bc4f5-7fa8-40c4-9fb5-d2638a45d89a" />
+
 
 ## Hi there, my name is Ishan Shihas.
 
