@@ -2,7 +2,7 @@
 
 ## Hi there, my name is Ishan Shihas.
 
-I am an aspiring Marine Biologist based in Qatar who's heading to Canada to study Marine biology. I dive in the Arabian Gulf and turn what I find into data, pairing fieldwork with Python and R to document reef life.
+I am an aspiring Marine Biologist based in Qatar. I dive in the Arabian Gulf and turn what I find into data, pairing fieldwork with Python and R to document reef life.
 
 ### What I'm working on
 
