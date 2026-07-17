@@ -10,7 +10,7 @@ I am an aspiring Marine Biologist based in Qatar who's heading to Canada to stud
 
 ### My goals
 
-I hope to build a research focused career in Marine biology in Canada, primarily focused on coral reefs and the deep sea.
+I hope to build a research focused career in Marine biology, primarily focused on coral reefs and the deep sea.
 
 ### What I do
 
